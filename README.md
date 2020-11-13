@@ -1,6 +1,6 @@
 # Mixed Message - Message Generator randomly selecting Philosopher's quotes
 
-> Every time a user runs this program, It will get a new  quote from a random Philosopher.
+> Every time an user runs this program, It will get a new  quote from a random Philosopher.
 
 ## Table of contents
 
