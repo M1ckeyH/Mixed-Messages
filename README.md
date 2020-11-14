@@ -19,4 +19,4 @@ It's a project for a Portfolio, an exercise from Codecademy.
 
 ## Status
 
-Project completed.
+Project in progress.
